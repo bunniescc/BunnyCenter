@@ -1,0 +1,19 @@
+{
+  "database_error": "Database Error",
+  "param_required": "Some parameters is required",
+  "tip_info": "Info",
+  "login": "Login",
+  "username": "Username",
+  "email": "Email",
+  "nickname": "Nickname",
+  "password": "Password",
+  "forgot_password": "Forgot Password",
+  "register": "Register",
+  "optional": "Optional",
+  "reg_close": "Registration is not allowed",
+  "user_not_exist": "User does not exist",
+  "username_exists": "Username already exists",
+  "invalid_username": "Username is invalid",
+  "wrong_password": "Password is wrong",
+  "logout": "Logout"
+}

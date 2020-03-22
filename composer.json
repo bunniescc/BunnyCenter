@@ -1,0 +1,15 @@
+{
+  "name": "ivanlulyf/bunny-center",
+  "description": "Basic User Sample",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ivan Lu",
+      "email": "me@ivanlu.cn"
+    }
+  ],
+  "require": {
+    "ivanlulyf/bunnyphp": "^2.3"
+  }
+}
